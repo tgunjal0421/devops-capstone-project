@@ -79,6 +79,7 @@ The code for the microservice is contained in the `service` package. All of the 
 
 ![Build Status](https://github.com/tgunjal0421/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
+
 ## Data Model
 
 The Account model contains the following fields:
